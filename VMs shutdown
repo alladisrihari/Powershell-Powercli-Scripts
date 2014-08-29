@@ -1,0 +1,1 @@
+shutdown-vmguest -vm (gc c:\temp\severs.txt)
