@@ -1,1 +1,2 @@
-shutdown-vmguest -vm (gc c:\temp\severs.txt)
+# To shutdown multipls VMS from text file.
+shutdown-vmguest -vm (gc c:\temp\severs.txt) 
